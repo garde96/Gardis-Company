@@ -1,0 +1,46 @@
+Website Gard's Company
+
+Welcome to the official one-page website for **Gard’s Company** – a digital-first business helping small brands grow their online presence.
+
+
+## Features
+
+- Responsive one-page layout
+- Modern digital styling
+- Social media integration
+- Clean code structure for easy customization
+- Ready for free hosting (GitHub Pages, Netlify, etc.)
+
+## Live Site
+
+You can view the live site at:  
+**[(https://garde96.github.io/gards-company)**  
+
+
+## Sections Included
+
+- **Header:** Gard's Company 
+- **About Us:** <section>
+  <h2>About Us</h2>
+  <p>Hi, I’m the founder of Gard’s Company — a small, independent team based in Great Britain. We specialize in helping other small businesses grow by building strong, simple, and modern digital brands. From clean websites to social media strategy, we’re here to make your online presence work harder for you.</p>
+</section>
+- **Services:** <section>
+  <h2>What We Offer</h2>
+  <p>At Gard’s Company, we provide high-quality photography services tailored to your brand or personal style. Whether you're building a business, launching a product, or capturing a moment — we’re here to make it look stunning.</p>
+  <ul>
+    <li>Brand & Business Photography</li>
+    <li>Product & Commercial Shoots</li>
+    <li>Portrait & Lifestyle Sessions</li>
+    <li>Event Photography</li>
+    <li>Photo Editing & Retouching</li>
+  </ul>
+</section>
+- **Social Links:** Facebook, Instagram, WhatsApp  
+- **Contact (optional):** Add a form with Formspree/Getform  
+- **Footer:** Copyright Gard's Company
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/gards-company.git
